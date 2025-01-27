@@ -1,7 +1,7 @@
 import Counselling from './pages/Counselling'
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import Landing from './pages/Landing';
-import Overseas from './pages/overseas';
+import Overseas from './pages/OverSeas';
 import CrashCourse from './pages/CrashCourse';
 import ScrollToTop from './components/ScrollToTop';
 
