@@ -2,7 +2,7 @@ import React from 'react'
 import Header from '../components/Header'
 import CountryList from '../components/CountryList'
 import Footer from '../components/Footer'
-import HelperContact from '../components/helperContact'
+import HelperContact from '../components/HelperContact'
 
 const Overseas = () => {
   return (
