@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroVideo1 from '../assets/3209298-uhd_3840_2160_25fps.mp4'
+import HeroVideo1 from '../assets/heroVideo.mp4'
 
 const Home = ({smoothScroll}) => {
   return (
