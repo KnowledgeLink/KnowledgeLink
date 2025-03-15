@@ -5,12 +5,12 @@ const people = [
       imageUrl:
         '/Avatar.png',
     },
-    {
-      name: 'Rishab Rana',
-      role: 'Co-Founder',
-      imageUrl:
-        '/Avatar.png',
-    },
+    // {
+    //   name: 'Rishab Rana',
+    //   role: 'Co-Founder',
+    //   imageUrl:
+    //     '/Avatar.png',
+    // },
     {
       name: 'Amit Singh Rana',
       role: 'Director',
